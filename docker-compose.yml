@@ -1,0 +1,5 @@
+services:
+  spanner:
+    build:
+      context: .
+      dockerfile: Dockerfile
